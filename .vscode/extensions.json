@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "timonwong.shellcheck",
+    "mkhl.shfmt",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode"
+  ]
+}
