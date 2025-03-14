@@ -2,7 +2,7 @@
 
 A collection of bash scripts specifically designed for the Framework 13 laptop with a 2.8K screen. These scripts dynamically adjust the monitor refresh rate between 120 Hz when connected to AC power and 60 Hz when on battery, potentially extending battery life by about 1 hour, as tested.
 
-This setup has currently only been tested on Fedora 41. It may work both on other versions and other distros, but it is not guaranteed that it will.
+This setup has currently only been tested on Fedora 41 Workstation and uses utilities for the GNOME desktop environment. It may work both on other versions and other distros, but it is not guaranteed that it will.
 
 ## Prerequisites
 
